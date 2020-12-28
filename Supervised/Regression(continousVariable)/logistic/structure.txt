@@ -1,0 +1,22 @@
+ML-Implementations
+├── Supervised
+│   ├── Classification(DiscreteVariable)
+│   │   ├── labelled
+│   │   │   ├── DecisionTree
+│   │   │   ├── NaiveBayes
+│   │   │   ├── NeuralNetworks
+│   │   │   ├── SVN
+│   │   │   ├── knn
+│   │   │   ├── linear
+│   │   │   └── logistics
+│   │   └── unlabeled
+│   │       └── randomForest
+│   └── Regression(continousVariable)
+│       ├── linear\ 
+│       └── logistic
+└── unsupervised
+    ├── Aprioari-analysis
+    ├── DimensionalityReduction
+    └── K-means
+
+19 directories
